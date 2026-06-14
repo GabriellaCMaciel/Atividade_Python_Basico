@@ -2,7 +2,7 @@
 #ALUNA: Gabriella Cunha Maciel
 #COMPONENTE: Python Básico
 #DATA: 09/06/26
-# AULA 02
+#AULA 02
 
 # Primeiro Hello Word!
 print("Hello Word!")
